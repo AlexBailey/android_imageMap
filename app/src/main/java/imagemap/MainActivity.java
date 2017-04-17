@@ -1,4 +1,4 @@
-package com1032.cw2.ab00631.ab00631_assignment2;
+package imagemap;
 
 import android.app.*;
 import android.content.*;
